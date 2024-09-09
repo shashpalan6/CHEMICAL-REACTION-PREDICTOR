@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chemical Reaction Predictor</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    <style>
+        body {
+            background-image: url('https://images.app.goo.gl/ctPNhmNXS8YyW8eM7');
+            background-size: cover;
+            color: white;
+        }
+        .container {
+            text-align: center;
+            padding-top: 50px;
+        }
+        .result {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Chemical Reaction Predictor</h1>
+        <form id="reactionForm">
+            <input type="text" id="reactionInput" name="reaction" placeholder="Enter chemical reaction (e.g., H2 + O)">
+            <button type="submit">Predict</button>
+        </form>
+        <div id="result" class="result"></div>
+    </div>
+    <script>
+        document.getElementById('reactionForm').addEventListener('submit', async function(e) {
+            e.preventDefault();
+            const reaction = document.getElementById('reactionInput').value;
+            const response = await fetch('/predict', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ reaction: reaction })
+            });
+            const data = await response.json();
+            let resultDiv = document.getElementById('result');
+            if (data.error) {
+                resultDiv.innerHTML = `<p>${data.error}</p>`;
+            } else {
+                resultDiv.innerHTML = `
+                    <p><strong>Product:</strong> ${data.product}</p>
+                    <p><strong>Type:</strong> ${data.type}</p>
+                    <p><strong>Scientific Name:</strong> ${data.scientific_name}</p>
+                    <p><strong>General Name:</strong> ${data.general_name}</p>
+                    <p><strong>SMILES Format:</strong> ${data.smiles_format}</p>
+                    <p><strong>Molecular Weight:</strong> ${data.molecular_weight}</p>
+                `;
+            }
+        });
+    </script>
+</body>
+</html>

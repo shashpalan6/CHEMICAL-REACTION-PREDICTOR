@@ -1,0 +1,108 @@
+Equation,Type,Products,Reaction,scientific_name,general_name,smiles_format,Molecular_Weight
+H2 + O2 -> H2O,Combination,H2O,H2 + O,hydrogen oxide,water,OH2,18.015 g/mol
+2H2O -> 2H2 + O2,Decomposition,2H2 + O2,2H2O,hydrogen oxide,water,OH2,36.030 g/mol
+Zn + 2HCl -> ZnCl2 + H2,Single Replacement,ZnCl2 + H2,Zn + 2HCl,zinc chloride and hydrogen,zinc chloride and hydrogen,ZnCl2,H2,ZnCl2: 136.286 g/mol, H2: 2.016 g/mol
+AgNO3 + NaCl -> AgCl + NaNO3,Double Replacement,AgCl + NaNO3,AgNO3 + NaCl,silver chloride and sodium nitrate,silver chloride and sodium nitrate,AgCl,NaNO3,AgCl: 143.32 g/mol, NaNO3: 85.00 g/mol
+CH4 + 2O2 -> CO2 + 2H2O,Combustion,CO2 + 2H2O,CH4 + 2O2,methane and oxygen,methane and oxygen,C, H, O,CH4: 16.04 g/mol, O2: 32.00 g/mol
+2Mg + O2 -> 2MgO,Combination,2MgO,2Mg + O2,magnesium oxide,magnesium oxide,MgO,40.304 g/mol
+2KClO3 -> 2KCl + 3O2,Decomposition,2KCl + 3O2,2KClO3,potassium chloride and oxygen,potassium chloride and oxygen,KClO3, KCl: 74.5513 g/mol, O2: 48.00 g/mol
+Cl2 + 2NaBr -> 2NaCl + Br2,Single Replacement,2NaCl + Br2,Cl2 + 2NaBr,sodium chloride and bromine,sodium chloride and bromine,NaCl, Br2,NaCl: 58.44 g/mol, Br2: 159.808 g/mol
+HCl + NaOH -> NaCl + H2O,Double Replacement,NaCl + H2O,HCl + NaOH,sodium chloride and water,sodium chloride and water,NaCl, H2O,NaCl: 58.44 g/mol, H2O: 18.015 g/mol
+C3H8 + 5O2 -> 3CO2 + 4H2O,Combustion,3CO2 + 4H2O,C3H8 + 5O2,propane and oxygen,propane and oxygen,C3H8: 44.10 g/mol, O2: 160.00 g/mol
+CaCO3 -> CaO + CO2,Decomposition,CaO + CO2,CaCO3,calcium oxide and carbon dioxide,calcium oxide and carbon dioxide,CaO, CO2,CaO: 56.08 g/mol, CO2: 44.01 g/mol
+2Na + Cl2 -> 2NaCl,Combination,2NaCl,2Na + Cl2,sodium chloride,sodium chloride,NaCl,116.88 g/mol
+Fe + CuSO4 -> FeSO4 + Cu,Single Replacement,FeSO4 + Cu,Fe + CuSO4,iron(II) sulfate and copper,iron(II) sulfate and copper,FeSO4, Cu,FeSO4: 151.91 g/mol, Cu: 63.55 g/mol
+BaCl2 + H2SO4 -> BaSO4 + 2HCl,Double Replacement,BaSO4 + 2HCl,BaCl2 + H2SO4,barium sulfate and hydrochloric acid,barium sulfate and hydrochloric acid,BaSO4, HCl,BaSO4: 233.39 g/mol, HCl: 72.92 g/mol
+C6H12O6 + 6O2 -> 6CO2 + 6H2O,Combustion,6CO2 + 6H2O,C6H12O6 + 6O2,glucose and oxygen,glucose and oxygen,C6H12O6: 180.16 g/mol, O2: 192.00 g/mol
+H2 + Cl2 -> 2HCl,Combination,2HCl,H2 + Cl2,hydrogen chloride,hydrogen chloride,HCl,2 x 36.46 g/mol
+2Ag2O -> 4Ag + O2,Decomposition,4Ag + O2,2Ag2O,silver and oxygen,silver and oxygen,Ag, O2,4 x 107.87 g/mol, 32.00 g/mol
+2Al + 3CuCl2 -> 2AlCl3 + 3Cu,Single Replacement,2AlCl3 + 3Cu,2Al + 3CuCl2,aluminum chloride and copper,aluminum chloride and copper,AlCl3, Cu,2 x 133.34 g/mol, 3 x 63.55 g/mol
+Ca(OH)2 + H2SO4 -> CaSO4 + 2H2O,Double Replacement,CaSO4 + 2H2O,Ca(OH)2 + H2SO4,calcium sulfate and water,calcium sulfate and water,CaSO4, H2O,CaSO4: 136.14 g/mol, H2O: 36.03 g/mol
+C4H10 + 13O2 -> 8CO2 + 10H2O,Combustion,8CO2 + 10H2O,C4H10 + 13O2,butane and oxygen,butane and oxygen,C4H10: 58.12 g/mol, O2: 416.00 g/mol
+2NaHCO3 -> Na2CO3 + CO2 + H2O,Decomposition,Na2CO3 + CO2 + H2O,2NaHCO3,sodium carbonate and carbon dioxide and water,sodium carbonate and carbon dioxide and water,Na2CO3, CO2, H2O,Na2CO3: 105.99 g/mol, CO2: 44.01 g/mol, H2O: 18.015 g/mol
+Cu + 2AgNO3 -> Cu(NO3)2 + 2Ag,Single Replacement,Cu(NO3)2 + 2Ag,Cu + 2AgNO3,copper(II) nitrate and silver,copper(II) nitrate and silver,Cu(NO3)2, Ag,Cu(NO3)2: 187.55 g/mol, Ag: 2 x 107.87 g/mol
+Na2SO4 + BaCl2 -> 2NaCl + BaSO4,Double Replacement,2NaCl + BaSO4,Na2SO4 + BaCl2,sodium chloride and barium sulfate,sodium chloride and barium sulfate,NaCl, BaSO4,2 x 58.44 g/mol, 233.39 g/mol
+C2H5OH + 3O2 -> 2CO2 + 3H2O,Combustion,2CO2 + 3H2O,C2H5OH + 3O2,ethanol and oxygen,ethanol and oxygen,C2H5OH: 46.07 g/mol, O2: 96.00 g/mol
+2PbO2 -> 2PbO + O2,Decomposition,2PbO + O2,2PbO2,lead(IV) oxide and oxygen,lead(IV) oxide and oxygen,PbO, O2,2 x 223.2 g/mol, 32.00 g/mol
+Zn + CuSO4 -> ZnSO4 + Cu,Single Replacement,ZnSO4 + Cu,Zn + CuSO4,zinc sulfate and copper,zinc sulfate and copper,ZnSO4, Cu,ZnSO4: 161.47 g/mol, Cu: 63.55 g/mol
+2KBr + Cl2 -> 2KCl + Br2,Single Replacement,2KCl + Br2,2KBr + Cl2,potassium chloride and bromine,potassium chloride and bromine,KCl, Br2,2 x 74.55 g/mol, 159.808 g/mol
+NaOH + HCl -> NaCl + H2O,Double Replacement,NaCl + H2O,NaOH + HCl,sodium chloride and water,sodium chloride and water,NaCl, H2O,NaCl: 58.44 g/mol, H2O: 18.015 g/mol
+C6H6 + 15O2 -> 6CO2 + 3H2O,Combustion,6CO2 + 3H2O,C6H6 + 15O2,benzene and oxygen,benzene and oxygen,C6H6: 78.11 g/mol, O2: 480.00 g/mol
+P4 + 5O2 -> P4O10,Combination,P4O10,P4 + 5O2,tetraphosphorus decaoxide,tetraphosphorus pentoxide,O=P(O)O, P4: 123.896 g/mol, O2: 160.00 g/mol
+N2 + 3H2 -> 2NH3,Combination,2NH3,N2 + 3H2,ammonia,ammonia,NH3,NH3: 17.031 g/mol
+4Fe + 3O2 -> 2Fe2O3,Combination,2Fe2O3,4Fe + 3O2,ferric oxide,iron(III) oxide,Fe2O3,Fe2O3: 159.69 g/mol
+Ca + 2H2O -> Ca(OH)2 + H2,Single Replacement,Ca(OH)2 + H2,Ca + 2H2O,calcium hydroxide and hydrogen,calcium hydroxide and hydrogen,Ca(OH)2, H2,Ca(OH)2: 74.093 g/mol, H2: 2.016 g/mol
+C2H2 + 5O2 -> 4CO2 + 2H2O,Combustion,4CO2 + 2H2O,C2H2 + 5O2,acetylene and oxygen,acetylene and oxygen,C2H2: 26.04 g/mol, O2: 160.00 g/mol
+SiO2 + 4HF -> SiF4 + 2H2O,Double Replacement,SiF4 + 2H2O,SiO2 + 4HF,silicon tetrafluoride and water,silicon tetrafluoride and water,SiF4, H2O,SiF4: 104.079 g/mol, H2O: 18.015 g/mol
+2Na + 2H2O -> 2NaOH + H2,Single Replacement,2NaOH + H2,2Na + 2H2O,sodium hydroxide and hydrogen,sodium hydroxide and hydrogen,NaOH, H2,NaOH: 40.00 g/mol, H2: 2.016 g/mol
+C4H10 + 13O2 -> 8CO2 + 10H2O,Combustion,8CO2 + 10H2O,C4H10 + 13O2,butane and oxygen,butane and oxygen,C4H10: 58.12 g/mol, O2: 416.00 g/mol
+2H2O2 -> 2H2O + O2,Decomposition,2H2O + O2,2H2O2,hydrogen peroxide and oxygen,hydrogen peroxide and oxygen,H2O2, O2,H2O2: 34.0147 g/mol, O2: 32.00 g/mol
+2H2S + 3O2 -> 2SO2 + 2H2O,Combustion,2SO2 + 2H2O,2H2S + 3O2,hydrogen sulfide and oxygen,hydrogen sulfide and oxygen,H2S, O2,H2S: 34.08 g/mol, O2: 96.00 g/mol
+2NaHCO3 -> Na2CO3 + H2O + CO2,Decomposition,Na2CO3 + H2O + CO2,2NaHCO3,sodium carbonate and water and carbon dioxide,sodium carbonate and water and carbon dioxide,Na2CO3, H2O, CO2,Na2CO3: 105.99 g/mol, H2O: 18.015 g/mol, CO2: 44.01 g/mol
+2C4H10 + 13O2 -> 8CO2 + 10H2O,Combustion,8CO2 + 10H2O,2C4H10 + 13O2,butane and oxygen,butane and oxygen,C4H10: 58.12 g/mol, O2: 416.00 g/mol
+4Al + 3O2 -> 2Al2O3,Combination,2Al2O3,4Al + 3O2,aluminum oxide,aluminum oxide,Al2O3,Al2O3: 101.96 g/mol
+2C2H6 + 7O2 -> 4CO2 + 6H2O,Combustion,4CO2 + 6H2O,2C2H6 + 7O2,ethane and oxygen,ethane and oxygen,C2H6, O2,C2H6: 30.07 g/mol, O2: 224.00 g/mol
+C2H4 + 3O2 -> 2CO2 + 2H2O,Combustion,2CO2 + 2H2O,C2H4 + 3O2,ethylene and oxygen,ethylene and oxygen,C2H4, O2,C2H4: 28.05 g/mol, O2: 96.00 g/mol
+2C2H5OH + 2O2 -> 2C2H4 + 2H2O,Dehydration,2C2H4 + 2H2O,2C2H5OH + 2O2,ethanol and oxygen,ethanol and oxygen,C2H5OH, O2,C2H5OH: 46.07 g/mol, O2: 64.00 g/mol
+C3H8 + 5O2 -> 3CO2 + 4H2O,Combustion,3CO2 + 4H2O,C3H8 + 5O2,propane and oxygen,propane and oxygen,C3H8, O2,C3H8: 44.10 g/mol, O2: 160.00 g/mol
+CaCO3 -> CaO + CO2,Decomposition,CaO + CO2,CaCO3,calcium carbonate,calcium carbonate,CaCO3,CaCO3: 100.09 g/mol
+2NH3 + H2SO4 -> (NH4)2SO4,Combination,(NH4)2SO4,2NH3 + H2SO4,ammonium sulfate,ammonium sulfate,NH3, H2SO4,NH3: 17.031 g/mol, H2SO4: 98.079 g/mol
+4P + 5O2 -> P4O10,Combination,P4O10,4P + 5O2,tetraphosphorus decaoxide,tetraphosphorus pentoxide,P4, O2,P4: 123.896 g/mol, O2: 160.00 g/mol
+C6H12O6 + 6O2 -> 6CO2 + 6H2O,Combustion,6CO2 + 6H2O,C6H12O6 + 6O2,glucose and oxygen,glucose and oxygen,C6H12O6, O2,C6H12O6: 180.16 g/mol, O2: 192.00 g/mol
+2Fe + 3Cl2 -> 2FeCl3,Combination,2FeCl3,2Fe + 3Cl2,iron(III) chloride,iron(III) chloride,FeCl3,FeCl3: 162.204 g/mol
+H2 + I2 -> 2HI,Combination,2HI,H2 + I2,hydrogen iodide,hydrogen iodide,HI,2 x 127.91 g/mol
+2NH3 + CO2 -> (NH2)2CO + H2O,Combination,(NH2)2CO + H2O,2NH3 + CO2,urea and water,urea and water,NH3, CO2,NH3: 17.031 g/mol, CO2: 44.01 g/mol
+2Na + Cl2 -> 2NaCl,Combination,2NaCl,2Na + Cl2,sodium chloride,sodium chloride,NaCl,NaCl: 58.44 g/mol
+C2H4 + H2 -> C2H6,Combination,C2H6,C2H4 + H2,ethane,ethane,C2H6,C2H6: 30.07 g/mol
+2K + 2H2O -> 2KOH + H2,Single Replacement,2KOH + H2,2K + 2H2O,potassium hydroxide and hydrogen,potassium hydroxide and hydrogen,KOH, H2,KOH: 56.11 g/mol, H2: 2.016 g/mol
+2KClO3 -> 2KCl + 3O2,Decomposition,2KCl + 3O2,2KClO3,potassium chloride and oxygen,potassium chloride and oxygen,KClO3,KClO3: 122.55 g/mol
+2Mg + O2 -> 2MgO,Combination,2MgO,2Mg + O2,magnesium oxide,magnesium oxide,MgO,MgO: 40.304 g/mol
+4NH3 + 5O2 -> 4NO + 6H2O,Combustion,4NO + 6H2O,4NH3 + 5O2,ammonia and oxygen,ammonia and oxygen,NH3,NH3: 17.031 g/mol
+4Al + 3Br2 -> 2Al2Br6,Combination,2Al2Br6,4Al + 3Br2,aluminum bromide,aluminum bromide,Al2Br6,Al2Br6: 533.33 g/mol
+2C4H10 + 13O2 -> 8CO2 + 10H2O,Combustion,8CO2 + 10H2O,2C4H10 + 13O2,butane and oxygen,butane and oxygen,C4H10: 58.12 g/mol, O2: 416.00 g/mol
+Zn + S -> ZnS,Combination,ZnS,Zn + S,zinc sulfide,zinc sulfide,ZnS,ZnS: 97.45 g/mol
+CH3OH + 1.5O2 -> CO2 + 2H2O,Combustion,CO2 + 2H2O,CH3OH + 1.5O2,methanol,methanol,CH3OH,CH3OH: 32.04 g/mol
+2C2H6 + 7O2 -> 4CO2 + 6H2O,Combustion,4CO2 + 6H2O,2C2H6 + 7O2,ethane and oxygen,ethane and oxygen,C2H6, O2,C2H6: 30.07 g/mol, O2: 224.00 g/mol
+SiO2 + 2NaOH -> Na2SiO3 + H2O,Double Replacement,Na2SiO3 + H2O,SiO2 + 2NaOH,sodium metasilicate and water,sodium metasilicate and water,Na2SiO3, H2O,Na2SiO3: 122.06 g/mol, H2O: 18.015 g/mol
+2AgNO3 + Cu -> Cu(NO3)2 + 2Ag,Single Replacement,Cu(NO3)2 + 2Ag,2AgNO3 + Cu,copper(II) nitrate and silver,copper(II) nitrate and silver,Cu(NO3)2, Ag,Cu(NO3)2: 187.56 g/mol, Ag: 107.87 g/mol
+2Na + H2 -> 2NaH,Combination,2NaH,2Na + H2,sodium hydride,sodium hydride,NaH,NaH: 24.00 g/mol
+N2 + 3Cl2 -> 2NCl3,Combination,2NCl3,N2 + 3Cl2,nitrogen trichloride,nitrogen trichloride,NCl3,NCl3: 120.365 g/mol
+K2O + H2O -> 2KOH,Combination,2KOH,K2O + H2O,potassium hydroxide,potassium hydroxide,KOH,KOH: 56.11 g/mol
+2NaN3 -> 2Na + 3N2,Decomposition,2Na + 3N2,2NaN3,sodium and nitrogen,sodium and nitrogen,Na, N2,Na: 22.99 g/mol, N2: 28.02 g/mol
+C3H8 + 5O2 -> 3CO2 + 4H2O,Combustion,3CO2 + 4H2O,C3H8 + 5O2,propane and oxygen,propane and oxygen,C3H8, O2,C3H8: 44.10 g/mol, O2: 160.00 g/mol
+3NO2 + H2O -> 2HNO3 + NO,Combination,2HNO3 + NO,3NO2 + H2O,nitric acid and nitrogen monoxide,nitric acid and nitrogen monoxide,HNO3, NO,HNO3: 63.01 g/mol, NO: 30.01 g/mol
+CaCO3 -> CaO + CO2,Decomposition,CaO + CO2,CaCO3,calcium oxide and carbon dioxide,calcium oxide and carbon dioxide,CaO, CO2,CaO: 56.08 g/mol, CO2: 44.01 g/mol
+Si + 2Cl2 -> SiCl4,Combination,SiCl4,Si + 2Cl2,silicon tetrachloride,silicon tetrachloride,SiCl4,SiCl4: 169.90 g/mol
+4HCl + MnO2 -> Cl2 + MnCl2 + 2H2O,Single Replacement,Cl2 + MnCl2 + 2H2O,4HCl + MnO2,chlorine and manganese(II) chloride and water,chlorine and manganese(II) chloride and water,Cl2, MnCl2, H2O,Cl2: 70.90 g/mol, MnCl2: 125.84 g/mol, H2O: 18.015 g/mol
+P4 + 6Cl2 -> 4PCl3,Combination,4PCl3,P4 + 6Cl2,phosphorus trichloride,phosphorus trichloride,PCl3,PCl3: 137.33 g/mol
+2H2O2 -> 2H2O + O2,Decomposition,2H2O + O2,2H2O2,hydrogen peroxide and oxygen,hydrogen peroxide and oxygen,H2O2, O2,H2O2: 34.0147 g/mol, O2: 32.00 g/mol
+2Na + 2H2O -> 2NaOH + H2,Single Replacement,2NaOH + H2,2Na + 2H2O,sodium hydroxide and hydrogen,sodium hydroxide and hydrogen,NaOH, H2,NaOH: 40.00 g/mol, H2: 2.016 g/mol
+C2H4 + H2 -> C2H6,Combination,C2H6,C2H4 + H2,ethane,ethane,C2H6,C2H6: 30.07 g/mol
+C2H4 + 3O2 -> 2CO2 + 2H2O,Combustion,2CO2 + 2H2O,C2H4 + 3O2,ethylene and oxygen,ethylene and oxygen,C2H4, O2,C2H4: 28.05 g/mol, O2: 96.00 g/mol
+2NO2 + H2O -> HNO3 + HNO2,Combination,HNO3 + HNO2,2NO2 + H2O,nitric acid and nitrous acid,nitric acid and nitrous acid,HNO3, HNO2,HNO3: 63.01 g/mol, HNO2: 47.01 g/mol
+4NH3 + 5O2 -> 4NO + 6H2O,Combustion,4NO + 6H2O,4NH3 + 5O2,ammonia and oxygen,ammonia and oxygen,NH3, O2,NH3: 17.031 g/mol, O2: 160.00 g/mol
+4KClO3 -> 3KClO4 + KCl,Decomposition,3KClO4 + KCl,4KClO3,potassium chlorate and potassium perchlorate,potassium chlorate and potassium perchlorate,KClO3, KClO4,KClO3: 122.55 g/mol, KClO4: 138.55 g/mol
+CaSO4 + 2H2O -> CaSO4•2H2O,Combination,CaSO4•2H2O,CaSO4 + 2H2O,calcium sulfate dihydrate,calcium sulfate dihydrate,CaSO4•2H2O,CaSO4•2H2O: 172.17 g/mol
+2NaHCO3 -> Na2CO3 + H2O + CO2,Decomposition,Na2CO3 + H2O + CO2,2NaHCO3,sodium carbonate and water and carbon dioxide,sodium carbonate and water and carbon dioxide,Na2CO3, H2O, CO2,Na2CO3: 105.99 g/mol, H2O: 18.015 g/mol, CO2: 44.01 g/mol
+2KClO3 -> 2KCl + 3O2,Decomposition,2KCl + 3O2,2KClO3,potassium chloride and oxygen,potassium chloride and oxygen,KCl, O2,KCl: 74.55 g/mol, O2: 48.00 g/mol
+2H2 + O2 -> 2H2O,Combination,2H2O,2H2 + O2,water,water,H2O,H2O: 18.015 g/mol
+Na2O + H2O -> 2NaOH,Combination,2NaOH,Na2O + H2O,sodium hydroxide,sodium hydroxide,NaOH,NaOH: 40.00 g/mol
+P4O10 + 6H2O -> 4H3PO4,Combination,4H3PO4,P4O10 + 6H2O,phosphoric acid,phosphoric acid,H3PO4,H3PO4: 98.00 g/mol
+3O2 -> 2O3,Decomposition,2O3,3O2,ozone,ozone,O3,O3: 48.00 g/mol
+Ca(OH)2 + CO2 -> CaCO3 + H2O,Combination,CaCO3 + H2O,Ca(OH)2 + CO2,calcium carbonate and water,calcium carbonate and water,CaCO3, H2O,CaCO3: 100.09 g/mol, H2O: 18.015 g/mol
+2Mg + CO2 -> 2MgO + C,Single Replacement,2MgO + C,2Mg + CO2,magnesium oxide and carbon,magnesium oxide and carbon,MgO, C,MgO: 40.30 g/mol, C: 12.01 g/mol
+Fe2O3 + 3CO -> 2Fe + 3CO2,Single Replacement,2Fe + 3CO2,Fe2O3 + 3CO,iron and carbon dioxide,iron and carbon dioxide,Fe, CO2,Fe: 55.85 g/mol, CO2: 44.01 g/mol
+2Pb + O2 -> 2PbO,Combination,2PbO,2Pb + O2,lead(II) oxide,lead(II) oxide,PbO,PbO: 223.20 g/mol
+2HgO -> 2Hg + O2,Decomposition,2Hg + O2,2HgO,mercury and oxygen,mercury and oxygen,Hg, O2,Hg: 200.59 g/mol, O2: 32.00 g/mol
+Zn + 2HCl -> ZnCl2 + H2,Single Replacement,ZnCl2 + H2,Zn + 2HCl,zinc chloride and hydrogen,zinc chloride and hydrogen,ZnCl2, H2,ZnCl2: 136.30 g/mol, H2: 2.016 g/mol
+2C4H10 + 13O2 -> 8CO2 + 10H2O,Combustion,8CO2 + 10H2O,2C4H10 + 13O2,butane and oxygen,butane and oxygen,C4H10, O2,C4H10: 58.12 g/mol, O2: 416.00 g/mol
+2Al + Fe2O3 -> 2Fe + Al2O3,Single Replacement,2Fe + Al2O3,2Al + Fe2O3,iron and aluminum oxide,iron and aluminum oxide,Fe, Al2O3,Fe: 55.85 g/mol, Al2O3: 101.96 g/mol
+C + O2 -> CO2,Combination,CO2,C + O2,carbon dioxide,carbon dioxide,CO2,CO2: 44.01 g/mol
+2NH3 + 3I2 -> N2I6 + 3H2,Combination,N2I6 + 3H2,2NH3 + 3I2,nitrogen triiodide and hydrogen,nitrogen triiodide and hydrogen,N2I6, H2,N2I6: 394.72 g/mol, H2: 2.016 g/mol
+CaCO3 -> CaO + CO2,Decomposition,CaO + CO2,CaCO3,calcium oxide and carbon dioxide,calcium oxide and carbon dioxide,CaO, CO2,CaO: 56.08 g/mol, CO2: 44.01 g/mol
+H2SO4 + NaOH -> Na2SO4 + H2O,Double Replacement,Na2SO4 + H2O,H2SO4 + NaOH,sodium sulfate and water,sodium sulfate and water,Na2SO4, H2O,Na2SO4: 142.04 g/mol, H2O: 18.015 g/mol
+2H2O2 -> 2H2O + O2,Decomposition,2H2O + O2,2H2O2,hydrogen peroxide and oxygen,hydrogen peroxide and oxygen,H2O2, O2,H2O2: 34.0147 g/mol, O2: 32.00 g/mol
+P4O10 + 6H2O -> 4H3PO4,Combination,4H3PO4,P4O10 + 6H2O,phosphoric acid,phosphoric acid,H3PO4,H3PO4: 98.00 g/mol
+2Na + 2H2O -> 2NaOH + H2,Single Replacement,2NaOH + H2,2Na + 2H2O,sodium hydroxide and hydrogen,sodium hydroxide and hydrogen,NaOH, H2,NaOH: 40.00 g/mol, H2: 2.016 g/mol
+N2 + 3H2 -> 2NH3,Combination,2NH3,N2 + 3H2,ammonia,ammonia,NH3,NH3: 17.031 g/mol
+3Cu + 8HNO3 -> 3Cu(NO3)2 + 4H2O + 2NO,Double Replacement,3Cu(NO3)2 + 4H2O + 2NO,3Cu + 8HNO3,copper(II) nitrate,water and nitrogen monoxide,copper(II) nitrate, water and nitrogen monoxide,Cu(NO3)2: 187.56 g/mol, H2O: 18.015 g/mol, NO: 30.01 g/mol
